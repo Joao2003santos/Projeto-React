@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    height: 120px;
+    margin: 20px;
+}
+
+ul {
+    display: flex;
+}
+
+li, a {
+    margin: 20px;
+    color: #fff;
+}

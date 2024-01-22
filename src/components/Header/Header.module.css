@@ -1,0 +1,5 @@
+.container {
+    background-image: url(../../assets/banner.png);
+    height: 500px;
+    background-position: center;
+}

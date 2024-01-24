@@ -10,10 +10,9 @@ const SwiperComponent = () => {
       navigation
       pagination={{ clickable: true }}
     >
-      <SwiperSlide><a href='https://picsum.photos/200'></a></SwiperSlide>
+      <SwiperSlide></SwiperSlide>
       <SwiperSlide>Slide 2</SwiperSlide>
       <SwiperSlide>Slide 3</SwiperSlide>
-      {/* Adicione mais slides conforme necessário */}
     </Swiper>
   );
 };
